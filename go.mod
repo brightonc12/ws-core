@@ -1,4 +1,4 @@
-module gitlab.com/brightonc/ws-core
+module github.com/brightonc12/ws-core
 
 go 1.15
 
